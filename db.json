@@ -1,6 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "json-ahskjlehr", "author": "bathongor" }
+    { "number": 103, "name": "John Doe", "email": 'johndoe@hotmail.com', "phone": "+9803312256", "status": "active", "kycstatus": "yes"},
+    { "number": 52, "name": "Mills Ernest", "email": 'mills@gmail.com', "phone": "+5129034825", "status": "active", "kycstatus": "yes"},
+    { "number": 13, "name": "Manu Ginobili", "email": 'ginobili@nba.com', "phone": "+1834986369", "status": "active", "kycstatus": "yes"},
+    { "number": 6, "name": "LeBron James", "email": 'kingjames@nba.com', "phone": "+9696969692", "status": "active", "kycstatus": "yes"},
+    { "number": 34, "name": "Ray Allen", "email": 'rayallen@nba.com', "phone": "+523840261", "status": "active", "kycstatus": "yes"},
+    { "number": 11, "name": "Kyrie Irving", "email": 'uncledrew@nba.com', "phone": "+239847126", "status": "active", "kycstatus": "yes"},
+    { "number": 35, "name": "Kevin Durant", "email": 'kd@nba.com', "phone": "+8976023413", "status": "active", "kycstatus": "yes"},
+    { "number": 15, "name": "Vincent Carter", "email": 'vinsanity@nba.com', "phone": "+985421352", "status": "active", "kycstatus": "yes"},
+    { "number": 3, "name": "Dwayne Wade", "email": 'dwade@nba.com', "phone": "+69892134235", "status": "active", "kycstatus": "yes"},
   ],
   "profile": { "name": "bathongor" }
 }
