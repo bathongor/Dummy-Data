@@ -1,52 +1,20 @@
 {
   "posts": [
     {
-    number: 103,
-    name: 'John Doe',
-    email: 'johndoe@hotmail.com',
-    phone: '+9803312256',
-    status: 'active',
-    kycstatus: 'yes'
+    "number": '103',
+    "name": 'John Doe',
+    "email": 'johndoe@hotmail.com',
+    "phone": '+9803312256',
+    "status": 'active',
+    "kycstatus": 'yes'
     },
     {
-    number: 50,
-    name: 'Curtis Smith',
-    email: 'curtis@hotmail.com',
-    phone: '+59070003412',
-    status: 'active',
-    kycstatus: 'yes'
-    },
-    {
-    number: 33,
-    name: 'James Harden',
-    email: 'harden@nba.com',
-    phone: '+87690737261',
-    status: 'active',
-    kycstatus: 'yes'
-    },
-    {
-    number: 76,
-    name: 'Steve Nash',
-    email: 'steve@nba.com',
-    phone: '+003991547493',
-    status: 'active',
-    kycstatus: 'yes'
-    },
-    {
-    number: 203,
-    name: 'John Larabee',
-    email: 'johnlar@usarmy.com',
-    phone: '+7692138840',
-    status: 'active',
-    kycstatus: 'yes'
-    },
-    {
-    number: 13,
-    name: 'Beau Ressa',
-    email: 'ressa@usarmy.com',
-    phone: '+6520088130',
-    status: 'active',
-    kycstatus: 'yes'
+    "number": '150',
+    "name": 'Curtis Smith',
+    'email": 'curtis@hotmail.com',
+    "phone": '+59070003412',
+    "status": 'active',
+    "kycstatus": 'yes'
     }
   ],
   "profile": {
