@@ -1,23 +1,9 @@
 {
   "posts": [
-    {
-    "number": '103',
-    "name": 'John Doe',
-    "email": 'johndoe@hotmail.com',
-    "phone": '+9803312256',
-    "status": 'active',
-    "kycstatus": 'yes'
-    },
-    {
-    "number": '150',
-    "name": 'Curtis Smith',
-    "email": 'curtis@hotmail.com',
-    "phone": '+59070003412',
-    "status": 'active',
-    "kycstatus": 'yes'
-    }
+    { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "profile": {
-    "name": 'bathongor'
-  }
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "bathongor" }
 }
