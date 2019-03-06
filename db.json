@@ -11,13 +11,13 @@
     {
     "number": '150',
     "name": 'Curtis Smith',
-    'email": 'curtis@hotmail.com',
+    "email": 'curtis@hotmail.com',
     "phone": '+59070003412',
     "status": 'active',
     "kycstatus": 'yes'
     }
   ],
   "profile": {
-    "name": "bathongor"
+    "name": 'bathongor'
   }
 }
