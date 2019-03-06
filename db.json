@@ -8,7 +8,7 @@
     { "number": 11, "name": "Kyrie Irving", "email": "uncledrew@nba.com", "phone": "+239847126", "status": "active", "kycstatus": "yes"},
     { "number": 35, "name": "Kevin Durant", "email": "kd@nba.com", "phone": "+8976023413", "status": "active", "kycstatus": "yes"},
     { "number": 15, "name": "Vincent Carter", "email": "vinsanity@nba.com", "phone": "+985421352", "status": "active", "kycstatus": "yes"},
-    { "number": 3, "name": "Dwayne Wade", "email": "dwade@nba.com", "phone": "+69892134235", "status": "active", "kycstatus": "yes"},
+    { "number": 3, "name": "Dwayne Wade", "email": "dwade@nba.com", "phone": "+69892134235", "status": "active", "kycstatus": "yes"}
   ],
   "profile": { "name": "bathongor" }
 }
