@@ -1,7 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "json-ahskjlehr", "author": "bathongor" },
-    { "id": 2, "title": "json-server2", "author": "bathongor" }
+    { "id": 1, "title": "json-ahskjlehr", "author": "bathongor" }
   ],
   "profile": { "name": "bathongor" }
 }
